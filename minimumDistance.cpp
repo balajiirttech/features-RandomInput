@@ -24,3 +24,6 @@ int removeObstacle(int numRows, int numColumns, int **lot) {
     return -1;
   return removeObstacleUtil(numRows, numColumns, lot, 0, 0);
 }
+
+
+//Amazon coding testing : write an algorithm to determine the minimum distance required for the demolition robot to remove the obstacle
